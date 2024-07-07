@@ -1,8 +1,8 @@
 - 👋 Hi, <h1>I’m Prachi<h1>
-- 👀 I’m interested in AWS cloud technology and Kubernetes 
+- 👀 I’m interested in AWS cloud technology. 
 - 🌱 I’m currently preparing for AWS associate certifications.
-- 💞️ I’m looking to collaborate on cloud projects and anything related to containerization with Docker.
-- 📫 How to reach me here or on LinkedIn
+- 💞️ I’m looking to collaborate on cloud projects.
+- 📫 How to reach me? - here or on LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to reading and run through imaginary situation in my head, I know this sounds crazy but its fun too....sometimes.
   
